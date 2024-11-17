@@ -7,6 +7,8 @@ The Pre-Dredging Survey at Hely Creek Field involved detailed seabed mapping and
 - **Date:** July 2023
 - **Role:** Online Surveyor
 - **Vessel:** Batoil Beagle One
+- **Contractor**: Batoil Services Nigeria Limited
+- **Project Location**: Makaraba Field 
 
 ## Responsibilities
 - **Monitor Equipment Performance:**  
@@ -19,7 +21,7 @@ The Pre-Dredging Survey at Hely Creek Field involved detailed seabed mapping and
   Monitored and enforced compliance with project execution, safety protocols, and offshore operations, ensuring a safe working environment for the team and minimizing risk.
 
 - **Dimension Control:**  
-  Conducted regular dimension control tasks to verify the accuracy Positionning equipment used and Vessel Offset.
+  Conducted regular dimension control tasks to verify the accuracy Positioning equipment used and Vessel Offset.
 
 - **Write Reports:**  
   Documented daily progress and field activities in detailed reports, providing updates on any issues encountered, and ensuring effective communication with the project team.
